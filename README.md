@@ -1,3 +1,8 @@
+![Zabbix](https://img.shields.io/badge/Zabbix-API%20Client-red?style=flat&logo=zabbix)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+
 # Zabbix Python Client
 
 This repository provides a Python client for interacting with the Zabbix API, facilitating the automation of monitoring tasks and the integration of Zabbix functionalities into Python applications.
